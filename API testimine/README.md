@@ -6,7 +6,7 @@ Eesmärgiks oli testida REST ja SOAP API-sid, hinnata süsteemi käitumist erine
 
 ## Testimine keskendus
 
-funktsionaalsele testimisele
+Funktsionaalsele testimisele
 positiivsetele ja negatiivsetele stsenaariumidele
 veahandluse kontrollile
 API vastuste ja HTTP staatusekoodide valideerimisele
