@@ -10,7 +10,7 @@ vearaportite koostamisele ning analüütilisele QA mõtlemisele.
 
 ---
 
-## Testimise lähenemine
+## Testimisviis
 
 Kasutasin **riskipõhist testimise strateegiat**:
 
