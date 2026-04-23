@@ -4,13 +4,13 @@ Projekt demonstreerib käsitsi API testimist, kasutades riskipõhist testimisvii
 
 Eesmärgiks oli testida REST ja SOAP API-sid, hinnata süsteemi käitumist erinevate sisendite korral ning tuvastada funktsionaalseid vigu ja süsteemi piiranguid.
 
-## Testimine keskendus
+## Testimise fookus
 
-Funktsionaalsele testimisele
-positiivsetele ja negatiivsetele stsenaariumidele
-veahandluse kontrollile
-API vastuste ja HTTP staatusekoodide valideerimisele
-riskide arvestamisele testjuhtumite loomisel
+Funktsionaalsuse testimine
+Positiivsed ja negatiivsed stsenaariumid
+Veahalduse
+API vastuste ja HTTP staatusekoodide valideerimine
+Riskide arvestamine testjuhtumite loomisel
 
 ## Testimise eesmärgid
 
