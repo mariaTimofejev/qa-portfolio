@@ -23,7 +23,7 @@ struktureeritud testimise, riskipõhise lähenemise ja API testimise.
 
 ### Manuaalne testimine
 - Funktsionaalse ja mittefunktsionaalse testimise läbiviimine
-- Riskipõhise testimise lähenemine
+- Riskipõhine lähenemine
 - Positiivsete, negatiivsete ja piirjuhtumite testimine
 - Kasutajavoogude ja äriloogika valideerimine
   
@@ -37,14 +37,14 @@ struktureeritud testimise, riskipõhise lähenemise ja API testimise.
 ### Veaaruanne (Bug reporting)
 - Selgete ja reprodutseeritavate veaaruannete koostamine
 - Vea tõsiduse (Severity) ja prioriteedi (Priority) määramine
-- Reprodutseerimise sammude dokumenteerimine
-- Tegelik vs oodatav tulemus analüüs
+- Vigade reprodutseerimise sammude dokumenteerimine
+- Tegeliku vs oodatava tulemuse analüüs
 - Koostöö arendajatega vea lahendamisel
 
 ### API testimine
 - REST API testimine Postmaniga
 - SOAP API testimine SoapUI abil
-- HTTP meetodite valideerimine (GET, POST, PUT, DELETE)
+- HTTP meetodite valideerimine
 - HTTP staatusekoodide kontroll
 - JSON vastuste analüüs
 - Positiivsete ja negatiivsete API stsenaariumite loomine
