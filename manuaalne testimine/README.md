@@ -14,7 +14,7 @@ vearaportite koostamisele ning analüütilisele QA mõtlemisele.
 
 Kasutasin **riskipõhist testimise strateegiat**:
 
-- esmalt testiti ohutuskriitilisi funktsioone
+- esmalt testisin ohutuskriitilisi funktsioone
 - seejärel põhifunktsionaalsust
 - lisaks negatiivsed stsenaariumid ja piirjuhtumid
 
