@@ -22,7 +22,7 @@ struktureeritud testimise, riskipõhise lähenemise ja API testimise.
 - HTTP status koodide valideerimine
 - Positiivsed ja negatiivsed teststsenaariumid
 
-### QA Skills
+## QA Skills
 - Manual testing
 - Test case design
 - Bug reporting
