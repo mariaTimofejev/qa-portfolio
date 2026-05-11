@@ -1,7 +1,13 @@
-# QA Automaattestimise Portfoolio
+# QA Inseneri Portfoolio
 
-Tere! Olen alustav QA automaattestija, kes keskendub veebirakenduste testimisele, API testimisele ja testide automatiseerimisele.
+Tere! Olen juunior QA automaattestija, kes keskendub kaasaegsete veebirakenduste testimisele, kasutades Playwrighti (automaattestide kirjutamiseks), Postmani (API testimiseks) ja GitHub Actionsit.
 
+✔ Manuaalne testimine
+✔ API testimine
+✔ Automatiseeritud testimine
+✔ CI/CD integratsioon
+
+Otsin aktiivselt juunior QA inseneri töövõimalusi.
 ---
 
 ## Fookus
