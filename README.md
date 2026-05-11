@@ -1,62 +1,52 @@
-# QA Testing Portfolio
+# QA Automaattestimise Portfoolio
 
-Tere!
+Tere! Olen alustav QA automaattestija, kes keskendub veebirakenduste testimisele, API testimisele ja testide automatiseerimisele.
 
-Olen QA testimise huviline, keskendudes kvaliteedi tagamisele läbi
-struktureeritud testimise, riskipõhise lähenemise ja API testimise.
+---
+
+## Fookus
+
+- Veebirakenduste testimine
+- Automaatne testimine
+- API testimine
+- Testjuhtumite loomine
+
+---
+
+## Kasutatavad tehnoloogiad
+
+- Playwright
+- JavaScript
+- Postman
+- GitHub Actions
+
+---
 
 ## Projektid
 
-### Manuaalne testimine (Käsitsi testimine)
-- Riskipõhine testimine
-- Testjuhtumite loomine
-- Kontrollnimekirjad
-- Veadokumentatsioon
+### Käsitsi testimine
+- Testistrateegia
+- Testjuhtumid
+- Veateated
+
+### Automaattestid
+- Login test
+- Otsingu test
+- Põhilised suitsutestid
 
 ### API testimine
-- REST API testimine (Postman)
-- SOAP API testimine (SoapUI)
-- HTTP status koodide valideerimine
-- Positiivsed ja negatiivsed teststsenaariumid
+- GET / POST testid
+- autentimine
+- veakoodid
 
-## QA oskused
+---
 
-### Manuaalne testimine
-- Funktsionaalse ja mittefunktsionaalse testimise läbiviimine
-- Riskipõhine lähenemine
-- Positiivsete, negatiivsete ja piirjuhtumite testimine
-- Kasutajavoogude ja äriloogika valideerimine
-  
-### Testjuhtumite loomine
-- Struktureeritud testjuhtumite kirjutamine
-- Testistsenaariumite disainimine
-- Eeltingimuste ja oodatavate tulemuste defineerimine
-- Testide prioritiseerimine riski ja mõju alusel
-- Test coverage (testide kattuvus) analüüs
-  
-### Veaaruanne (Bug reporting)
-- Selgete ja reprodutseeritavate veaaruannete koostamine
-- Vea tõsiduse (Severity) ja prioriteedi (Priority) määramine
-- Vigade reprodutseerimise sammude dokumenteerimine
-- Tegeliku vs oodatava tulemuse analüüs
-- Koostöö arendajatega vea lahendamisel
+## CI/CD
 
-### API testimine
-- REST API testimine Postmaniga
-- SOAP API testimine SoapUI abil
-- HTTP meetodite valideerimine
-- HTTP staatusekoodide kontroll
-- JSON vastuste analüüs
-- Positiivsete ja negatiivsete API stsenaariumite loomine
-  
-### SQL põhiteadmised
-- Andmete valideerimine andmebaasist
-- SELECT päringute kirjutamine
-- WHERE ja LIKE tingimuste kasutamine
-  
-### Analüütiline mõtlemine
-- Süsteemide käitumise loogiline analüüs
-- Riskide tuvastamine enne arendust
-- Probleemide juurpõhjuste (root cause) analüüs
-- Detailidele orienteeritud kvaliteedikontroll
-- Lahendustele suunatud mõtteviis
+Projekt kasutab GitHub Actions automaatseks testimiseks.
+
+---
+
+## 📫 Kontakt
+
+- GitHub: https://github.com/mariaTimofejev
