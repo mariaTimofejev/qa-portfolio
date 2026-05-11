@@ -1,0 +1,14 @@
+{
+  "info": {
+    "name": "QA API Tests"
+  },
+  "item": [
+    {
+      "name": "Get Users",
+      "request": {
+        "method": "GET",
+        "url": "https://example.com/api/users"
+      }
+    }
+  ]
+}
